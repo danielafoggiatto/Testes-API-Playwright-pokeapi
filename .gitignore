@@ -1,0 +1,30 @@
+# Dependências
+node_modules/
+
+# Playwright
+playwright-report/
+test-results/
+blob-report/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+.npm/
+.pnpm-store/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
